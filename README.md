@@ -1,8 +1,8 @@
 # code2json
 Convert code to JSON format. Useful when creating VSCode snippets.
 
-# Emvironment
-Python3.x
+# Environment
+Python3.5
 
 # How to use
 ## Example
